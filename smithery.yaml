@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  command: npx
+  args:
+    - -y
+    - "@modelcontextprotocol/client-cli"
+    - sse
+    - --header
+    - "Authorization: Bearer ${(API_KEY)}"
+    - https://api.neoninnovationlab.com/sse
