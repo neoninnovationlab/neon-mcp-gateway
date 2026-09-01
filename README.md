@@ -10,7 +10,7 @@ Neon Gateway allows you to securely connect your Claude Desktop or custom AI age
 
 ## Get Access
 This is a hosted, premium MCP Gateway for Enterprise and Agency teams. 
-1. Purchase an API Key here: [https://neoninnovationlab.com/mcp]
+1. Purchase an API Key here: https://neoninnovationlab.com/mcp
 2. You will receive an `mcp_live_...` key instantly via email.
 3. Configure your Claude Desktop using the instructions below.
 
