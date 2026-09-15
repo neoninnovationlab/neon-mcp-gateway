@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.neoninnovationlab/neon-mcp-gateway",
+  "title": "Neon Enterprise MCP Gateway",
+  "description": "Zero-Trust firewall, audit logging, and read-only Postgres enforcement for MCP AI agents.",
+  "version": "1.0.0",
+  "websiteUrl": "https://neoninnovationlab.com/mcp",
+  "repository": {
+    "url": "https://github.com/neoninnovationlab/neon-mcp-gateway",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "sse",
+      "url": "https://api.neoninnovationlab.com/sse"
+    }
+  ]
+}
